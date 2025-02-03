@@ -9,7 +9,16 @@ I am an AI/ML Engineer and Software Engineer passionate about leveraging cutting
 - **Web Development Intern @ India Active Software Inc.** 💻 - Developed a responsive e-learning platform.
 
 ## 🛠️ Tech Stack & Skills
-C, C++, Python, PHP, SQL, Deep Learning, NLP, Computer Vision, HTML, CSS, JavaScript, Bootstrap, Google Colab, VS Code, pgAdmin.
+ - **Programming**: C, C++, Python, PHP, SQL
+  
+ - **AI/ML**: Deep Learning, Natural Language Processing, Computer Vision, CNN, LSTM
+  
+ - **Databases**: MySQL, PostgreSQL
+  
+ - ** Web Development**: HTML, CSS, JavaScript, Bootstrap, WordPress
+  
+ - **Cloud & Tools**: Google Colab, VS Code, pgAdmin
+
 
 ## 📫 Let's Connect!
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/bhagwataditya28)
