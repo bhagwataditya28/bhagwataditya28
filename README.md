@@ -15,7 +15,7 @@ I am an AI/ML Engineer and Software Engineer passionate about leveraging cutting
   
  - **Databases**: MySQL, PostgreSQL
   
- - ** Web Development**: HTML, CSS, JavaScript, Bootstrap, WordPress
+ - **Web Development**: HTML, CSS, JavaScript, Bootstrap, WordPress
   
  - **Cloud & Tools**: Google Colab, VS Code, pgAdmin
 
