@@ -1,7 +1,7 @@
 # Hi there, I'm Aditya Bhagwat! 👋
 
 ## 🚀 About Me
-I am an AI/ML Engineer and Software Engineer passionate about leveraging cutting-edge technologies to solve real-world problems.
+I am an AI/ML Engineer and Software Engineer passionate about leveraging cutting-edge technologies to solve real-world problems. I recently graduated with a B.Tech in Artificial Intelligence from GH Raisoni Institute of Engineering & Technology, Nagpur.
 
 ## 🎯 Experience & Projects
 - **SatelliteChangeNet** 🛰️ - Deep learning model for satellite imagery analysis.
