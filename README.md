@@ -1,8 +1,31 @@
 <h1 align="center">Hi 👋, I'm Aditya Vikas Bhagwat</h1>
 <h3 align="center">I am an AI/ML Engineer and Software Engineer passionate about leveraging cutting-edge technologies to solve real-world problems. I recently graduated with a B.Tech in Artificial Intelligence from GH Raisoni Institute of Engineering & Technology, Nagpur.</h3>
 
-- 🎯 Experience & Projects **SatelliteChangeNet**
+Experience & Projects
 
+SatelliteChangeNet 🛰️
+
+Engineered a deep learning model for satellite imagery analysis.
+
+Compared U-Net, R-CNN, and YOLO algorithms.
+
+Integrated multispectral remote-sensing images for environmental monitoring and urban planning.
+
+Stock Price Prediction using LSTM 📈
+
+Developed an LSTM-based model for predicting stock market trends.
+
+Preprocessed financial datasets to improve prediction accuracy.
+
+Explored time-series forecasting techniques.
+
+Web Development Intern @ India Active Software Inc. 💻
+
+Designed and built a responsive e-learning platform.
+
+Used HTML, CSS, JavaScript, PHP, and MySQL.
+
+Ensured a seamless user experience across devices.
 - 🌱 I’m currently learning **PowerBI, PHP**
 
 
