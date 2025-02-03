@@ -13,5 +13,5 @@ C, C++, Python, PHP, SQL, Deep Learning, NLP, Computer Vision, HTML, CSS, JavaSc
 
 ## 📫 Let's Connect!
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityabhagwat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](linkedin.com/in/bhagwataditya28  )
 [![Portfolio](https://img.shields.io/badge/Portfolio-28A745?logo=internet-explorer&logoColor=white)](https://yourwebsite.com)
