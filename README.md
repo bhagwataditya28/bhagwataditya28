@@ -12,6 +12,6 @@ I am an AI/ML Engineer and Software Engineer passionate about leveraging cutting
 C, C++, Python, PHP, SQL, Deep Learning, NLP, Computer Vision, HTML, CSS, JavaScript, Bootstrap, Google Colab, VS Code, pgAdmin.
 
 ## 📫 Let's Connect!
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/bhagwataditya28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](linkedin.com/in/bhagwataditya28)
 [![Portfolio](https://img.shields.io/badge/Portfolio-28A745?logo=internet-explorer&logoColor=white)](https://yourwebsite.com)
