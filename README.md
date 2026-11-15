@@ -10,7 +10,7 @@ I'm interested in developing intelligent applications that solve real-world busi
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 **IT Apprentice – Citi | Risk & Compliance Technology**
 - Automated recurring audit and compliance workflows using Python, SQL, Excel Macros, and VBA.
@@ -32,12 +32,15 @@ I'm interested in developing intelligent applications that solve real-world busi
 - Uses Retrieval-Augmented Generation (RAG) and agent-based workflows.
 - Designed around clause analysis, risk identification, compliance checks, and report generation.
 - **Tech:** Python, LLMs, RAG, Embeddings, AI Agents.
+- **Status:** In Development
 
 ### 🏥 AI Healthcare Reception Assistant
 - Built an AI-powered healthcare enquiry management prototype.
 - Classifies enquiries into appointment booking, clinic information, doctor availability, and general enquiries.
 - Includes human-review escalation and emergency keyword guardrails.
 - **Tech:** Python, Streamlit, Google Gemini, Prompt Engineering.
+- **Repository:** [View Project on GitHub](https://github.com/bhagwataditya28/AI-Healthcare-Reception-Assistant)
+- **Live Demo:** [Try the Application](https://ai-healthcare-reception-assistant-csaahjugxpvprggxhjauxr.streamlit.app/)
 
 ### 🛰️ SatelliteChangeNet
 - Deep learning approach for satellite image change detection and prediction.
@@ -56,30 +59,17 @@ I'm interested in developing intelligent applications that solve real-world busi
 
 ## 🛠️ Technical Skills
 
-**Programming & Development**
-- Python, SQL, C, C++, PHP
-- HTML, CSS, JavaScript, Bootstrap
+**Programming:** Python, SQL, C, C++, PHP
 
-**AI, ML & Generative AI**
-- Machine Learning, Deep Learning
-- CNN, LSTM, NLP, Computer Vision
-- Generative AI, Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents, Prompt Engineering, Embeddings
+**AI, ML & Generative AI:** Machine Learning, Deep Learning, CNN, LSTM, NLP, Computer Vision, Generative AI, LLMs, RAG, AI Agents, Prompt Engineering, Embeddings
 
-**Data & Automation**
-- Data Analysis and Data Validation
-- SQL Queries and Reporting
-- Excel, VBA, Macros
-- Workflow Automation
+**Data & Automation:** Data Analysis, Data Validation, SQL Reporting, Excel, VBA, Macros, Workflow Automation
 
-**Databases**
-- MySQL, PostgreSQL
+**Databases:** MySQL, PostgreSQL
 
-**Frameworks & Tools**
-- Streamlit, Google AI Studio, Google Colab
-- Git, GitHub, VS Code, pgAdmin
-- Power BI (Basic)
+**Frameworks & Tools:** Streamlit, Google AI Studio, Google Colab, Git, GitHub, VS Code, pgAdmin, Power BI (Basic)
+
+**Web Development:** HTML, CSS, JavaScript, Bootstrap, WordPress
 
 ---
 
@@ -104,12 +94,10 @@ Graduated: 2024
 
 ## 🤝 Let's Connect!
 
-I'm always interested in connecting with developers, recruiters, and professionals working in AI, Data, Software Engineering, and Automation.
-
 - **GitHub:** [@bhagwataditya28](https://github.com/bhagwataditya28)
 - **LinkedIn:** [Aditya Bhagwat](https://www.linkedin.com/in/bhagwataditya28/)
 - **Email:** [bhagwataditya28@gmail.com](mailto:bhagwataditya28@gmail.com)
 
 ---
 
-⭐ *"Building intelligent solutions through AI, data, and automation."*
+⭐ *Building intelligent solutions through AI, data, and automation.*
